@@ -9,3 +9,8 @@ I will increase, over time, the functionalities of the package and it's modules.
   implementations of read and write operations of or to json files. Like I mentioned above,
   as I learn more about the language and as I develop my own projects even more, I will 
   increase the features offered.
+
+#### References
+
+Some sources that helped me develop this project:
+- [Build Your First Python Package](https://www.freecodecamp.org/news/build-your-first-python-package/) - Original Article or in Portuguese [Como Criar o Seu Primeiro Pacote em Python](https://www.freecodecamp.org/portuguese/news/como-criar-o-seu-primeiro-pacote-em-python/)
